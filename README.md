@@ -1,7 +1,7 @@
 This was a work project for a monthly data entry audit. 
 
 Every month an audit would be conducted to flag missing/incorrect data entry as well as progress towards staff goals. 
-This would come in the form of an Excel file with 4-8 cells generated in Tableau Prep Flow, however Tableau Prep cannot highlight or format cells in its output files.
+This would come in the form of an Excel file with 4-8 sheets generated in Tableau Prep Flow, however Tableau Prep cannot highlight or format cells in its output files.
 
 This code does the following
   1. reads the Excel file created by Tableau Prep Flow
@@ -12,4 +12,4 @@ This code does the following
 
 Permission was given to publish the code on the condition that all personal information is removed and replaced with dummy data.
 The dummy data covers 190 clients at 3 work sites, though the original data was a much larger 1200+ clients at 15 work sites.
-No included in the dummy data is seasonal data for the Tier2, SSP Goals, Attributes, and Contact Info sheets.
+Not included in the dummy data is seasonal data for the Tier2, SSP Goals, Attributes, and Contact Info sheets.
